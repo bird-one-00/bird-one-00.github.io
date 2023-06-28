@@ -22,9 +22,9 @@ author: Badminton Lover
 navbar-links:
   About Me: "CAU High Clear"
   Resources:
-    - Instagram: "https://www.instagram.com/cau_highclear/"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://www.instagram.com/cau_highclear/"
+    - 23-2 하이클리어 지원서(ALPHA TEST): "https://docs.google.com/forms/d/e/1FAIpQLSd4s08ZQyfofwIUbc4sUTmXgkmKcZQiLqFwZqgL-9b65C5dRg/viewform"
+    - 이것도 되나? : "blog.naver.com/shanghai4869
+  하이클리어 인스타그램: "https://www.instagram.com/cau_highclear/"
 
 ################
 # --- Logo --- #
@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "https://postfiles.pstatic.net/MjAyMzA2MjhfMjYz/MDAxNjg3OTUwNzg5MzM4.fLkdGOq_2jShxX1dzlLKLL5Bpky7PASoCZLBEKzAEv0g.chemwWQL1Dc_fSmJf8sslZtOHM-F0AK08IL7K1KGQSYg.PNG.shanghai4869/image.png?type=w966"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -52,11 +52,11 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
+  facebook: whdlf
+  github: bird-one-00
   twitter: daattali
   patreon: DeanAttali
-  youtube: c/daattali
+  youtube: @tikitik_official
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
